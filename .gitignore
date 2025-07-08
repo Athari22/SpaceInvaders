@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.VENV/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Log files
+*.log
+
+# Screenshot or test images (optional)
+*.png
